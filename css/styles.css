@@ -644,12 +644,12 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .modal-close-button{
-    /* position: absolute;
+    position: absolute;
     top: 24px;
-    right: 24px; */
+    right: 24px;
 
-    margin-top: 24px;
-    margin-left: 360px;
+    /* margin-top: 24px;
+    margin-left: 360px; */
 
     display: flex;
     align-items: center;
