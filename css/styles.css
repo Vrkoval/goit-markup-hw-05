@@ -104,13 +104,14 @@ body{
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 
     color: var(--primary-text-color);
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     text-decoration: none;
       
 }
-.nav-link:hover,.nav-link:focus {color: var(--link-color)} 
+/* .nav-link:hover,.nav-link:focus {color: var(--link-color)}  */
 
 .current::after {
     content: '';
